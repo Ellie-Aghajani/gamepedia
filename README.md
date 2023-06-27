@@ -11,5 +11,5 @@ Gamepedia is a web application designed for discovering video games, enabling us
 * Add the API key to **src/services/api-client.ts**
 * Run **npm run dev** to start the web server.
   
-## Teck stack:
+## Tech stack:
 React, TypeScript, vanilla CSS, CSS modules and CSS-in-JS
