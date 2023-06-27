@@ -10,3 +10,5 @@ Gamepedia is a web application designed for discovering video games, enabling us
 * Get a **RAWG API key** at https://rawg.io/apidocs. You'll have to create an account first.
 * Add the API key to **src/services/api-client.ts**
 * Run **npm run dev** to start the web server.
+  
+## Teck stack: React, TypeScript, vanilla CSS, CSS modules and CSS-in-JS
