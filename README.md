@@ -1,6 +1,7 @@
 # Gamepedia
 Gamepedia is a web application designed for discovering video games, enabling users to explore and uncover captivating new games to play. By utilizing Gamepedia, you can effortlessly search for games based on various criteria such as platform, genre, and more.
 
+
 ## Getting Started
 
 #### To get started with GameHub, follow these steps:
