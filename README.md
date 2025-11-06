@@ -15,4 +15,4 @@ Check it out: https://gamepedia-eight.vercel.app/
 
 ## Tech stack:
 
-React, TypeScript, vanilla CSS, CSS modules and CSS-in-JS
+React, TypeScript, Chakra UI 
