@@ -10,7 +10,7 @@ Check it out: https://gamepedia-eight.vercel.app/
 - Clone this repository to your local machine.
 - Run npm install to install the required dependencies.
 - Get a **RAWG API key** at https://rawg.io/apidocs. You'll have to create an account first.
-- Add the API key to **src/services/api-client.ts**
+- Create a **.env** file in the project root containing `VITE_RAWG_API_KEY=your_key`
 - Run **npm run dev** to start the web server.
 
 ## Tech stack:
